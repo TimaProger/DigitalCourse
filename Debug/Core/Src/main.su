@@ -1,0 +1,8 @@
+main.c:78:8:HAL_TIM_PWM_PulseFinishedCallback	16	static
+main.c:126:5:main	88	dynamic
+main.c:286:6:SystemClock_Config	112	static
+main.c:327:13:MX_TIM1_Init	80	static
+main.c:392:13:MX_TIM2_Init	48	static
+main.c:441:13:MX_USART1_UART_Init	8	static
+main.c:476:13:MX_GPIO_Init	48	static
+main.c:505:6:Error_Handler	8	static,ignoring_inline_asm
